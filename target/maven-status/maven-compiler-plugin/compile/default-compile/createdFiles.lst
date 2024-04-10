@@ -1,0 +1,5 @@
+edu\iu\hmbharad\historyservice\repository\PrimesHistoryRepository.class
+edu\iu\hmbharad\historyservice\model\PrimesRecord.class
+edu\iu\hmbharad\historyservice\rabbitmq\MQReceiver.class
+edu\iu\hmbharad\historyservice\HistoryServiceApplication.class
+edu\iu\hmbharad\historyservice\controllers\PrimesHistoryController.class
